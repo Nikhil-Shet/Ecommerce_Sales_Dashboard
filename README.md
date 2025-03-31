@@ -1,2 +1,2 @@
 # Ecommerce_Sales_Dashboard
-![Alt text](images/Dashboard.png)
+![Alt text](Dashboard.png)
